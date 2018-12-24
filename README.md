@@ -4,25 +4,25 @@
 아래 링크에서 튜토리얼을 시청할 수 있습니다<br>
 https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
 
-1. 들어가기 전에
+### 1. 들어가기 전에
   - 왜 언어의 이름이 C++죠?
   - C++와 C, 무엇이 다른가?
   - 환경
   - Visual Studio 2013 프로젝트 설정
   - int가 차지하는 메모리의 크기
 
-2. 수학 함수를 C함수로
+### 2. 수학 함수를 C함수로
   - 아규먼트와 파라미터
   - 관례
   - 이젠 할 수 있다!
   - 함수도 선언해야 한다
   - 소스 문자 집합
 
-3. 이진수
+### 3. 이진수
   - 보충해 주는 수: 보수
   - 비트 플래그, 비트 마스크
 
-4. 변수는 쓰기 전에 선언해야 한다
+### 4. 변수는 쓰기 전에 선언해야 한다
   - 초기화
   - 함수형 초기화
   - 실수는 어떻게?
@@ -31,18 +31,18 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - 형의 종류
   - 특별한 형 void
 
-5. 이스케이프 절차
+### 5. 이스케이프 절차
   - 특정한 문자를 강조하기
   - C++11: 원시 문자열
 
-6. 포인터, []연산자
+### 6. 포인터, []연산자
   - 문자열은 포인터 표현
   - 포인터의 포인터, 함수 포인터
 
-7. 문장 vs. 표현식
+### 7. 문장 vs. 표현식
   - 문장의 종류
 
-8. 연산자
+### 8. 연산자
   - 산술
   - 할당
   - 비트
@@ -62,13 +62,13 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - 형 변환
   - 함수형 형 변환
 
-9. scanf()에 &가 있어야 하는가?
+### 9. scanf()에 &가 있어야 하는가?
   - 스택: 자료구조의 정상
   - &의 역할
   - scanf()에 &를 적어야 하는 이유
   - 포인터를 바꾸려면
 
-10. 제어구조
+### 10. 제어구조
   - if
   - switch
   - switch를 보는 컴파일러의 입장
@@ -76,7 +76,7 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - while
   - do...while
 
-11. 프로젝트 만들기
+### 11. 프로젝트 만들기
   - 볼런드 C++ 3.1인 경우
   - 볼런드 C++ 4.5인 경우
   - 볼런드 C++ 빌더인 경우
@@ -84,7 +84,7 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - 마이크로소프트 비주얼 C++ 5.0인 경우
   - Visual Studio 2013의 경우
 
-12. 변수의 종류, 범위 규칙
+### 12. 변수의 종류, 범위 규칙
   - 스택
   - C++11에서 auto의 의미
   - 힙
@@ -96,7 +96,7 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - 프로토타입 범위
   - static에 관한 진실
 
-13. 배열
+### 13. 배열
   - 차원
   - 같은 형의 변수를 여러 개 선언하는 법
   - 내용 연산자 []
@@ -108,27 +108,27 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - 울타리 막대기 문제: 가장 자리 문제
   - 진보된 주제
 
-14. 참조표
+### 14. 참조표
   - 점수에 따라 등급을 출력하는 경우
   - 기교
   - 임의의 숫자를 토글하려면
   - 임의의 사상을 구현
 
-15. 포인터 II
+### 15. 포인터 II
   - 포인터의 포인터
   - 참조
   - 가용 공간 리스트
   - new와 delete
   - 2차원 배열의 할당
 
-16. 사용자 정의형, 열거형
+### 16. 사용자 정의형, 열거형
   - typedef
   - 범위
   - enum: 열거형
   - 컴파일러의 입장
   - 클래스에서 enum의 사용
 
-17. 구조체, 공용체
+### 17. 구조체, 공용체
   - 왜 이것이 필요한가?
   - 문법
   - 구조체 멤버 참조 연산자 . 과 ->
@@ -145,7 +145,7 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - 무명 공용체
   - 연결 리스트
 
-18. 파일
+### 18. 파일
   - 핸들이란?
   - 파일의 사용
   - 파일 포인터
@@ -155,7 +155,7 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - 이진 파일의 처리
   - 버퍼링
 
-19. 함수 포인터
+### 19. 함수 포인터
   - 함수 포인터가 필요한 경우
   - 함수 포인터 선언
   - 함수 포인터 배열
@@ -166,7 +166,7 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - C++의 새로운 연산자 .*와 ->*
   - 멤버 함수 포인터의 응용
 
-20. 전처리 명령어
+### 20. 전처리 명령어
   - #include
   - #define
   - 왜 매크로 상수를 사용하는가?
@@ -178,12 +178,12 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - 미리 정의된 매크로
   - 운영체제나 환경에 의존적인 설정이 필요하다면
 
-21. 가변인자
+### 21. 가변인자
   - 스택 동작
   - 1개의 형과 3개의 매크로
   - 다른 예
 
-22. 메모리
+### 22. 메모리
   - 옛날 옛적 8bit와 16bit 시절
   - 어려운 선택, 세그멘테이션
   - 인텔의 선택: 세그멘테이션
@@ -195,7 +195,7 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - 단편화
   - 외부 단편화
 
-23. 표준 함수
+### 23. 표준 함수
   - C 표준라이브러리 헤더 파일들 				
   - 형 지원 						
   - 동적 메모리 할당 					
@@ -211,7 +211,7 @@ https://www.youtube.com/playlist?list=PLrrTotxaO6kjxlHovqDNTdSFZ8tcAvQkO
   - 원자 연산 라이브러리 					
   - 쓰레드 지원 라이브러리 					
 
-24. C++의 구조체
+### 24. C++의 구조체
   - 좀 더 자연스러운 구조체 				
   - C++을 배우려는 독자들에게 				
 
